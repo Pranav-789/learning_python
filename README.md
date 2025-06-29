@@ -11,9 +11,15 @@ I created this repo to:
 - Prepare myself for AI, machine learning, and data science.
 - Track my growth and progress through code.
 
+### ✅ Checkpoints
+
+- [x] Python Programming
+- [x] NumPy
+
 ### 📚 Learning Sources
 
 I’m learning Python through:
 - [Sheriyan's AI School - YouTube Playlist](https://www.youtube.com/@SheriyansCodingSchool)
 - [GeeksforGeeks Python Programming Course](https://www.geeksforgeeks.org/python-programming-language/)
-
+- [Kaggle - Python Programming Course](https://www.kaggle.com/learn/python)
+- [W3Schools - NumPy Guide](https://www.w3schools.com/python/numpy/numpy_intro.asp)
